@@ -1,0 +1,24 @@
+# ———————————————————————————————————————————————
+# MSIN0097 — Predictive Analytics Coursework 2025–26
+# Turbofan RUL Prediction (NASA C-MAPSS FD001)
+# UCL MSc Business Analytics
+#
+# Python version: 3.11.x
+# Install: pip install -r requirements.txt
+# ———————————————————————————————————————————————
+
+# Core data stack
+pandas>=2.0
+numpy>=1.24
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.12
+
+# Machine learning
+scikit-learn>=1.3
+torch>=2.0
+
+# Notebook environment
+jupyter>=1.0
+ipykernel>=6.0
