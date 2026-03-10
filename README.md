@@ -5,7 +5,7 @@
 **Key documents**
 
 -   Main analysis notebook → `rul_prediction_cmapss.ipynb`
--   Written report & appendix → submitted here and on Moodle (PDF) MSIN0097-coursework-report-appendix.pdf
+-   Written report & appendix → submitted here and on Moodle (PDF) MSIN0097-coursework-report-appendix.pdf (logs are in the appendix)
 
   My Candidate number - VGKQ6
 
